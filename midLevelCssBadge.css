@@ -74,11 +74,11 @@ p strong {
 	width: 30%;
 }
 
-.list-inline li i{
+.list-inline li i {
 	font-size: 25px;
 }
 
-.btn-danger{
+.btn-danger {
 	background-color: #cc0000;
 	color: white;
 	font-weight: bold;
@@ -91,13 +91,13 @@ p strong {
 	width: 35%;
 }
 
-#left-container h1{
+#left-container h1 {
 	color: #cc0000;
 	text-align: center;
 	font-size: 21px
 }
 
-#left-container h2{
+#left-container h2 {
 	text-align: center;
 }
 
@@ -130,7 +130,7 @@ p strong {
   	right: 0px;
 }
 
-#share li{
+#share li {
 	display: inline-block;
 	width: 90px;
 }
